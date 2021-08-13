@@ -24,6 +24,6 @@ func(m *Paystack) Payout() payload.WalletPayoutResponse{
 
 // git commit -a -m "my new version"
 // git push
-// git tag v0.1.0
-// git push -q origin v0.1.0
+// git tag v0.1.1
+// git push -q origin v0.1.1
 
